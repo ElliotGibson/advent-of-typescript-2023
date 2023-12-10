@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-typescript-2023",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "E Gibson",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "type-testing": "^0.2.0",
+    "typescript": "^5.3.3"
+  }
+}
