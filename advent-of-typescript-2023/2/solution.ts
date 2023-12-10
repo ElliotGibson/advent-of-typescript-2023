@@ -1,0 +1,1 @@
+export type CookieSurveyInput<TCookieSurvey> = keyof TCookieSurvey;
